@@ -1,0 +1,17 @@
+{
+    "author": "Author Name Here",
+    "enableAutoRefresh": true,
+    "entrypoint": "main.lua",
+    "keyBinds": {
+        "menu": "F8"
+    },
+    "keyBindsInfo": [
+        {
+            "info": "Toggle trainer menu. Navigation within the Trainer works with Arrows & Numpad keys.",
+            "name": "menu",
+            "text": "Sample Trainer Menu"
+        }
+    ],
+    "name": "WDL-ScriptHook-Template",
+    "version": "1.0"
+}
